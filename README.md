@@ -32,7 +32,7 @@ Svečias galės:
 - Prisiregistruoti
 - Prisijungti
 - Peržiūrėti registruotų naudotojų išvykas ir įrašus bei komentarus  
-- 
+
 Registruotas naudotojas galės:  
 
 - Išvykų valdymas - sukurti, ištrinti, paredaguoti, peržiūrėti išvykas
@@ -47,12 +47,12 @@ Administratoius galės:
 - Prisijungti
 - Atsijungti  
 
-## 2 Sistemos architektūra  
+## 2. Sistemos architektūra  
 
 Sistema susidės iš šių dalių:  
 
 - Kliento pusė – Vue.js.
 - Serverio pusė – .NET 6 Web API, MySql duomenų bazė  
-- 
+
 Žemiau (žr. 1. pav.) pateikta projekto diegimo diagrama. Tiek kliento, tiek serverio pusė
 su duomenų baze bus talpinami į Azure Server. 
