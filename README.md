@@ -10,15 +10,17 @@ pradedančiuosius astrofotografus, jiems reikia patiems susirasti šaltinius ir 
 susiplanuoti optimalią išvyką. Taip pat sunku semtis įkvėpimo iš kokybiškai atliktų nuotraukų,
 nes bendriniai socialiniai tinklai ne visada leidžia rūšiuoti pagal dangaus kūną ir ne visada
 nuotraukos autorius pateikia naudotą įrangą bei atskleidžia paslaptis ar patarimus, kaip tai
-padaryti.
+padaryti.  
 Taigi, tam, kad astrofotografas pradėtų planuoti savo išvyką, jam reikia įdėti gana nemažai
 papildomo darbo, mažai susijusio su galutiniu rezultatu – kokybiškai nufotografuotu dangaus
 kūnu. Visus aukščiau minėtus atsakymus į klausimus apjungus į vieną centralizuotą sistemą –
 socialinį tinklą – potencialiai atsirastų daugiau žmonių, norinčių pradėti šį hobį, o patyrusiems
-astrofotografams atsirastų papildoma motyvacija dalintis savo turiniu.
+astrofotografams atsirastų papildoma motyvacija dalintis savo turiniu.  
+
 Darbo tikslas – sukurti socialinį tinklą, kurio pagalba astrofotografams būtų lengviau
 planuoti astrofotografijos išvykas, semtis įkvėpimo ir mokytis iš kitų astrofotografų bei susirasti
-naujų pažinčių.
+naujų pažinčių.  
+
 Sistemą naudojantys aktoriai – svečias, registruotas naudotojas, administratorius
 #### 1.2 Funkciniai reikalavimai
 Svečias galės:
