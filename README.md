@@ -55,4 +55,5 @@ Sistema susidės iš šių dalių:
 - Serverio pusė – .NET 6 Web API, MySql duomenų bazė  
 
 Žemiau (žr. 1. pav.) pateikta projekto diegimo diagrama. Tiek kliento, tiek serverio pusė
-su duomenų baze bus talpinami į Azure Server. 
+su duomenų baze bus talpinami į Azure Server.  
+![diagram](Model.jpg "Deployment Diagram")
