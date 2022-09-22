@@ -1,2 +1,2 @@
-# Ad-Astra
-Social network for astrophotographers
+# Ad Astra
+
